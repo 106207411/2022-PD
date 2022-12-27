@@ -1,0 +1,9 @@
+*.vscode
+*.pdf
+*.exe
+finalProject/
+midProject/
+quiz/
+practice/
+*_sol*
+vscode-settings.txt
